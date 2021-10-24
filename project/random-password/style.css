@@ -1,0 +1,30 @@
+body {
+    font-size: 15pt;
+}
+
+h1 {
+  font-size: 30px;
+  font-family: sans-serif;
+}
+
+button {
+  padding: 15px;
+  margin: 15px;
+  align-items: center;
+  font-weight: bold;
+  background-color: #42445A;
+  border-style: none;
+  color: #fff;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #8185AF;
+}
+
+h3 {
+  color: red;
+  text-align: center;
+  font-family: arial;
+  filter: drop-shadow(2px 4px 8px #57585F);
+}
